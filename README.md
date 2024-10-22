@@ -78,7 +78,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-medium-5cx51vkdo-vinisvictorellis-projects.vercel.app/latest?username=`vini.svictorelli`"/>
+  [![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=omidnikrah)](https://medium.com/@omidnikrah)
 </div>
 
 
