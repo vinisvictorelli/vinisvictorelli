@@ -42,6 +42,9 @@
   <a href="https://www.instagram.com/olamundoofc/?next=%2F" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
+  <a href="https://www.tiktok.com/@olamundoofc" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" height="35" alt="tiktok logo" />
+  </a>
 </div>
 
 ###
