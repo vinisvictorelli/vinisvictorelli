@@ -76,10 +76,6 @@
 <img src="https://raw.githubusercontent.com/vinisvictorelli/vinisvictorelli/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
-  [![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=omidnikrah)](https://medium.com/@omidnikrah)
-</div>
-
+  [![Vinicius Victorelli](https://github-readme-medium.vercel.app/?username=vini.svictorelli&limit=2&bg=222f2e&text=ff0000)](https://medium.com/@vini.svictorelli)
 
 ###
