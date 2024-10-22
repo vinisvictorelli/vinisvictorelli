@@ -78,7 +78,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=`vini.svictorelli`"/>
+  <img src="https://github-readme-medium-gamma.vercel.app/latest?username=`vini.svictorelli`"/>
 </div>
 
 ###
